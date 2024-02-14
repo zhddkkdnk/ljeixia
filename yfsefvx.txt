@@ -169,3 +169,6 @@
 8.222.209.223:8443#翻斗花园-SG 48			
 8.222.224.163:2096#翻斗花园-SG 49			
 8.219.142.229:2096#翻斗花园-SG 50
+{name: 🇨🇳 Large 台灣01 - IEPL | 倍率:1.8, server: mysql.accessconnect.cc, port: 6501, type: ssr, cipher: rc4-md5, password: di15PV, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: "83013:lrh5bO", obfs-param: 8443f83013.www.gov.hk, udp: true}
+  - {name: 🇨🇳 Large 台灣02 - IEPL | 倍率:1.8, server: mysql.accessconnect.cc, port: 6502, type: ssr, cipher: rc4-md5, password: di15PV, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: "83013:lrh5bO", obfs-param: 8443f83013.www.gov.hk, udp: true}
+  - {name: 🇨🇳 Large 台灣03 - IEPL | 倍率:1.6, server: mysql.accessconnect.cc, port: 6503, type: ssr, cipher: rc4-md5, password: di15PV, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: "83013:lrh5bO", obfs-param: 8443f83013.www.gov.hk, udp: true}
